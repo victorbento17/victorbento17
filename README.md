@@ -2,7 +2,7 @@
 
 **`Estudante de Front-End`**
 
-Me chamo Victor Bento, sou natural do Recife/PE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sigo estudando em pojetos Fron-End e espero compartilhar minha evolução.
+Me chamo Victor, sou natural do Recife/PE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sigo estudando em pojetos Fron-End e espero compartilhar minha evolução.
 
 ---
 
